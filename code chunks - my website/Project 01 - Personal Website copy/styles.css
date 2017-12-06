@@ -1,0 +1,33 @@
+body {
+    padding: 50px;
+    text-align: center;
+    background: url("https://i.imgur.com/00qcrNn.jpg") no-repeat center fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+    
+    color: black;
+    font-family: helvetica;    
+}
+
+p {
+    font-size: 22px; 
+}
+
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+
+input[type="submit"]
+{
+    background: red;
+    color: white;
+    border: 1px;  
+}
+
+img {
+    width: 10%;
+    height: 10%;
+}
